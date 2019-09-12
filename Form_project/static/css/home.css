@@ -1,0 +1,24 @@
+h2
+{
+  text-align: center;
+  color: blue;
+}
+div
+{
+  text-align: center;
+  font-family: century Gothic;
+  font-size: 20px;
+}
+body
+{
+  background-image:  linear-gradient(rgba(0,0,0,0.9),
+      rgba(0,0,0,0.9),rgba(0,255,0,0.9)), url("../images/2.jpg");
+      height: 100vh;
+      background-size: cover;
+      background-position: center;
+}
+form
+{
+  color: red;
+  font-size: 20px;
+}
